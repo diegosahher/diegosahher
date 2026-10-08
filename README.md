@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 ## Titulo de segundo grado
 
 Soy alumno en el *colegio* San Viator de Valladolid
+
+## Estudios realizados
+- Bachillerato (2022 - 2024)
+- CFGS ASIR (2024 - 2026)
+- DAM (2026 - actualidad)
