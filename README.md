@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 # Titulo de primer grado    
 ## Titulo de segundo grado
 
-Soy alumno en el # colegio # San Viator de Valladolid
+Soy alumno en el colegio San Viator de Valladolid
